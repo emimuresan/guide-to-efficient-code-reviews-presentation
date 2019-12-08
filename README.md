@@ -2,7 +2,7 @@
 A quick guide to efficient and effective code reviews
 
 ## Slides
-* [Slides](https://slides.com/emiliamuresan/code-reviews/)
+* [slides.com/emiliamuresan/code-reviews](https://slides.com/emiliamuresan/code-reviews/)
 
 ## Links & References:
 * [Danger JS](https://danger.systems/js/)
